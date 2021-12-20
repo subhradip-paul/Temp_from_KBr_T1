@@ -1,4 +1,4 @@
-# nmr_scripts
+# NMR Scripts
  nmr data analysis and python scripts
 
 tempcalc_kbrt1.py:  The script calculates the temperature of a sample based on the KBr T1.
